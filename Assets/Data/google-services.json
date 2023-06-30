@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851078653715",
+    "project_id": "millionaire-5cf2c",
+    "storage_bucket": "millionaire-5cf2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851078653715:android:bc5e6b3e48bb3e95f55ce6",
+        "android_client_info": {
+          "package_name": "com.cagdas.millionaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851078653715-akeq8qk8nb3nvj76v6e62j2ktkrfu355.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEo20bzac7DYm_uQ2HslF0iCG4BfSIwIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851078653715-akeq8qk8nb3nvj76v6e62j2ktkrfu355.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
